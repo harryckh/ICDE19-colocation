@@ -50,7 +50,6 @@ Appendix A. The format of config.txt
 	<dist_thr>
 
 Explanation of the content in config.txt
------------------------
 
 	<Algorithm indicator> 
 		= 41: Filtering and Verification (Combinatorial-Search)
@@ -95,38 +94,31 @@ Explanation of the content in config.txt
 
 	(See file config.txt in the folder for example)
 
-Appendix B. The format of <Location file>
+Appendix B. The format of "Location file"
 ============================
 
-------------------------
 	<object ID1>, <1st coordinate>, <2nd coordinate>
 	<object ID2>, <1st coordinate>, <2nd coordinate>
 	<object ID3>, <1st coordinate>, <2nd coordinate>
 	...
 	<object IDn>, <1st coordinate>, <2nd coordinate>
-------------------------
-	Note that
-		n = # of objects
+	Note that n = # of objects
 
 (See file running-loc in the folder for example)
 
-Appendix C. The format of <Keyword file>
+Appendix C. The format of "Keyword file"
 =============================
-
-------------------------
 	<object ID1>, <keyword>
 	<object ID2>, <keyword>
 	<object ID3>, <keyword>
 	...
 	<object IDn>, <keyword>
-------------------------
 
 (See file running-doc in the folder for example)
 
-Appendix D. The format of <result.txt>
+Appendix D. The format of "result.txt"
 =============================
 
-------------------------
 	<# of size 1 patterns>
 	<1st feature ID of the 1st size 1 pattern> <support>
 	<1st feature ID of the 2nd size 1 pattern> <support>
@@ -146,14 +138,11 @@ Appendix D. The format of <result.txt>
 	...
 	<1st feature ID of the k-th size m pattern> <2nd feature ID of the k-th size m pattern> ... <m-th feature ID of the k-th size m pattern><support>
 
-------------------------
-
 (See file result.txt in the folder for example)
 
-Appendix E. The format of <stat.txt>
+Appendix E. The format of "stat.txt"
 =============================
 
-------------------------
 	<the time of building the IR-tree>
 	<the average time of performing a query>
 
@@ -169,7 +158,6 @@ Appendix E. The format of <stat.txt>
 	<Filter 2 time>
 	<Filter 3 time>
 	<Verification time>
-------------------------
 
 (See file stat.txt in the folder for example)
 
