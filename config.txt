@@ -1,0 +1,1 @@
+41	2	94028	syn_loc.txt	462	syn_doc.txt	0	syn_tree.txt	5	0.5	10
