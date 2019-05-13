@@ -2,14 +2,14 @@
 Notes
 =======================
 
-	1. This code was used for the empirical study of the ICDE'2019 paper 
-	"Fraction-Score: A New Support Measure for Co-location Pattern Mining".
-	2. This code is developed by Harry Kai-Ho Chan (email: khchanak@cse.ust.hk).
-	3. This code is written in C/C++.
-	4. This code runs under Unix/Linux.
-	5. In case that you encounter any problems when using this code,
-	please figure out the problem by yourself 
-	(The code in fact is easy to read and you can modify it for your own purpose).
+1. This code was used for the empirical study of the ICDE'2019 paper 
+"Fraction-Score: A New Support Measure for Co-location Pattern Mining".
+2. This code is developed by Harry Kai-Ho Chan (email: khchanak@cse.ust.hk).
+3. This code is written in C/C++.
+4. This code runs under Unix/Linux.
+5. In case that you encounter any problems when using this code,
+please figure out the problem by yourself 
+(The code in fact is easy to read and you can modify it for your own purpose).
 
 Usage
 =======================
